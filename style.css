@@ -139,12 +139,14 @@ body {
   z-index: 999;
 }
 h1 {
+  font-family: "Sriracha", serif;
   font-size: 35px;
   font-weight: 200;
   color: #003049;
 }
 
 p {
+  font-family: "Sriracha", serif;
   font-size: 20px;
   color: #003049;
 }
